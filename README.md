@@ -1,6 +1,6 @@
 # Send-Email-by-Spring-Boot
 
-###add below dependencies in pom.xml
+####add below dependencies in pom.xml
     <dependency>
 	    <groupId>org.springframework.boot</groupId>
 	    <artifactId>spring-boot-starter-mail</artifactId>
